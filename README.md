@@ -8,7 +8,7 @@
 - python
 - golang
 - language for scientific computation (still deciding)
-- godot & GDscript for making a simple games
+- godot & GDscript for making a simple game
 
 
 ## 📫 Contact
